@@ -4,7 +4,7 @@
 A functional secure password manager with secure password storage with encryption and password generation for ease of use.
 
 # Tech Stack
-Python for backend development, SQL for database, Node.js for frontend.
+Python for backend development, SQL for database.
 
 # Encryption Algorithm
 Argon2id
